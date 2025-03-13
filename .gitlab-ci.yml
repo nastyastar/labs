@@ -1,0 +1,8 @@
+stages:
+  - test
+test:
+  stage: test
+  script:
+    - python3 -m unittest discover tests
+
+

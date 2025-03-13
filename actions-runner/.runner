@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "MacBook-Air-Nasta",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus23.actions.githubusercontent.com/oPFr7aBIL7cUsDtoE0Ien4VteMS4nSOrv0kFexK95DyS1gG0ly/",
+  "gitHubUrl": "https://github.com/nastyastar/labs",
+  "workFolder": "_work"
+}
